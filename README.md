@@ -87,4 +87,14 @@ The main goal is to predict the health insurance premium of the user based on di
 https://user-images.githubusercontent.com/88729680/139559119-c22cfb09-776d-411e-a671-7e4a4173596f.mp4
 
 
+# **Deployment Links**
+
+AWS Link - http://awsdeployedpremiumprediction-env.eba-8h3eeubu.ap-south-1.elasticbeanstalk.com/
+
+Heroku Link - https://ipinusrance.herokuapp.com/
+
+# **Run Locally**
+
+* Clone the Project
+
 
