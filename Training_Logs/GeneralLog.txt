@@ -1,0 +1,290 @@
+
+2021-10-29/20:27:28		Bad_Raw directory deleted successfully!!!
+
+2021-10-29/20:27:28		GoodRaw directory deleted successfully!!!
+
+2021-10-29/20:32:38		GoodRaw directory deleted successfully!!!
+
+2021-10-29/20:32:38		Bad Files Move to Archive
+
+2021-10-29/20:32:38		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-29/20:32:41		Entered the get_data method of the Data_Getter class
+
+2021-10-29/20:32:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-29/20:32:50		Entered the get_data method of the Data_Getter class
+
+2021-10-29/20:32:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-29/20:56:57		Entered the get_data method of the Data_Getter class
+
+2021-10-29/20:56:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-29/20:57:00		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-29/20:57:00		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-29/20:58:49		Entered the get_data method of the Data_Getter class
+
+2021-10-29/20:58:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-29/20:58:52		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-29/20:58:52		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-29/22:08:32		GoodRaw directory deleted successfully!!!
+
+2021-10-29/22:08:32		Bad Files Move to Archive
+
+2021-10-29/22:08:32		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-29/22:08:34		Entered the get_data method of the Data_Getter class
+
+2021-10-29/22:08:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/00:24:51		GoodRaw directory deleted successfully!!!
+
+2021-10-30/00:24:52		Bad Files Move to Archive
+
+2021-10-30/00:24:52		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-30/00:24:53		Entered the get_data method of the Data_Getter class
+
+2021-10-30/00:24:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/01:04:48		GoodRaw directory deleted successfully!!!
+
+2021-10-30/01:04:48		Bad Files Move to Archive
+
+2021-10-30/01:04:48		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-30/01:04:49		Entered the get_data method of the Data_Getter class
+
+2021-10-30/01:04:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/01:17:44		Entered the get_data method of the Data_Getter class
+
+2021-10-30/01:17:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/01:17:45		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:17:45		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:18:23		Entered the get_data method of the Data_Getter class
+
+2021-10-30/01:18:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/01:18:23		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:18:23		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:19:57		Entered the get_data method of the Data_Getter class
+
+2021-10-30/01:19:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/01:19:57		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:19:57		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/01:59:33		GoodRaw directory deleted successfully!!!
+
+2021-10-30/01:59:34		Bad Files Move to Archive
+
+2021-10-30/01:59:34		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-30/01:59:35		Entered the get_data method of the Data_Getter class
+
+2021-10-30/01:59:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/02:17:58		Entered the get_data method of the Data_Getter class
+
+2021-10-30/02:17:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/02:17:59		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/02:17:59		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/02:42:18		Bad_Raw directory deleted successfully!!!
+
+2021-10-30/02:42:18		GoodRaw directory deleted successfully!!!
+
+2021-10-30/02:47:35		GoodRaw directory deleted successfully!!!
+
+2021-10-30/02:47:35		Bad Files Move to Archive
+
+2021-10-30/02:47:35		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-30/02:47:36		Entered the get_data method of the Data_Getter class
+
+2021-10-30/02:47:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/02:58:23		Entered the get_data method of the Data_Getter class
+
+2021-10-30/02:58:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/02:58:25		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/02:58:25		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/03:04:46		Entered the get_data method of the Data_Getter class
+
+2021-10-30/03:04:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/03:04:46		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/03:04:47		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/14:50:22		Entered the get_data method of the Data_Getter class
+
+2021-10-30/14:50:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/14:50:22		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/14:50:22		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:08:32		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:08:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:08:32		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:08:32		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:10:39		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:10:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:10:39		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:10:39		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:23:32		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:23:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:23:33		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:23:33		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:11		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:26:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:26:12		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:12		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:20		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:26:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:26:20		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:20		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:57		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:26:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:26:58		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:26:58		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:29:31		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:29:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:29:31		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:29:31		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:29:35		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:29:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:29:35		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:29:35		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:37:12		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:37:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:37:14		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:37:14		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:38:59		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:38:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:38:59		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:38:59		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:40:01		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:40:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:40:02		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:40:02		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:40:19		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:40:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:40:19		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:40:19		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:41:15		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:41:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:41:15		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:41:15		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:42:19		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:42:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/20:42:19		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:42:19		Data Load Successful.Exited the Prediction_data method of the Data_Getter class
+
+2021-10-30/20:43:52		GoodRaw directory deleted successfully!!!
+
+2021-10-30/20:44:42		Bad_Raw directory deleted successfully!!!
+
+2021-10-30/20:44:42		GoodRaw directory deleted successfully!!!
+
+2021-10-30/20:49:01		Bad_Raw directory deleted successfully!!!
+
+2021-10-30/20:49:01		GoodRaw directory deleted successfully!!!
+
+2021-10-30/20:49:05		Bad_Raw directory deleted successfully!!!
+
+2021-10-30/20:49:05		GoodRaw directory deleted successfully!!!
+
+2021-10-30/20:54:29		GoodRaw directory deleted successfully!!!
+
+2021-10-30/20:54:29		Error while Deleting Directory : [WinError 3] The system cannot find the path specified: 'Training_Raw_files_validated/Good_Raw/Insurance_10062021_120000.csv'
+
+2021-10-30/20:54:29		Bad Files Move to Archive
+
+2021-10-30/20:54:29		Bad Raw Data Folder Deleted successfully!!
+
+2021-10-30/20:54:30		Entered the get_data method of the Data_Getter class
+
+2021-10-30/20:54:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/21:08:12		Entered the get_data method of the Data_Getter class
+
+2021-10-30/21:08:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+
+2021-10-30/21:08:14		Entered the Prediction_data method of the Data_Getter class
+
+2021-10-30/21:08:14		Data Load Successful.Exited the Prediction_data method of the Data_Getter class

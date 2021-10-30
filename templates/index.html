@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Health Insurance Premium Predictor</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="../static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+
+<body>
+  <nav class="purple darken-4 accent-3" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Welcome!!  We are Here for you</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="#"></a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="sidenav">
+        <li><a href="#">Welome</a></li>
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+  <img src="{{url_for('static', filename='css/insurance.jpg')}}" width="350px" height="350px" align="left">
+
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center red-text">Health Insurance Premium Predictor</h1>
+      <div class="row center">
+        <h5 class="header col s12 light black-text"><b>Enter you details</b></h5>
+
+      </div>
+
+
+
+
+
+<div class="row">
+    <form action='/predict' method="post" class="col s12">
+      <div class="row">
+        <div class="input-field col s4">
+            <label for="first_name" style="font-size: 20px"><b>Age</b></label>
+            <br>
+            <input placeholder="Age" name="age" id="age" type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="_name" style="font-size: 20px"><b>Gender</b></label>
+            <br>
+            <input id="_name" name="sex" placeholder="male/female" type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="last_name" style="font-size: 20px"><b>BMI</b></label>
+              <br>
+            <input id="bmi" name="bmi" placeholder="BMI"  type="text" class="validate">
+          </div>
+
+        <div class="input-field col s4">
+
+            <label for="last_name" style="font-size: 20px"><b>Childrens</b></label>
+              <br>
+            <input id="children" name="children" placeholder="0 for None"  type="text" class="validate">
+
+          </div>
+
+        <div class="input-field col s4">
+            <label for="smoker" style="font-size: 20px"><b>Do you Smoke?</b></label>
+            <br>
+            <input id="smoker" name="smoker" placeholder="yes/no" type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="region" style="font-size: 20px"><b>Which Region?</b></label>
+            <br>
+            <input id="region" name="region" placeholder="NW/NE/SE/SW" type="text" class="validate">
+        </div>
+      </div>
+
+      <div class="row center">
+
+
+          <button type="submit" class="btn-large waves-effect waves-light lamber lighten-1">Predict Probability</button>
+          <br><br>
+          <div class="msg"><b>{{ msg }}</b></div>
+      </div>
+    </form>
+      </div>
+      <div class="dark-text">
+      <br>
+        <h4>{{prediction}}</h4><br>
+      </div>
+    </div>
+  </div>
+
+
+    <br><br>
+  </div>
+  </div>>
+
+  <footer class="page-footer light-blue lighten-1">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Company Bio</h5>
+          <p class="grey-text text-lighten-4"> The goal of this product is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.</p>
+        </div>
+
+        <div class="col l3 s12">
+          <h5 class="white-text">Settings</h5>
+          <ul>
+            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href="#!">Link 2</a></li>
+            <li><a class="white-text" href="#!">Link 3</a></li>
+            <li><a class="white-text" href="#!">Link 4</a></li>
+          </ul>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Connect</h5>
+          <ul>
+            <li><a class="white-text" href="#!">LinkedIn</a></li>
+            <li><a class="white-text" href="#!">GitHub</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Made by <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="../static/js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

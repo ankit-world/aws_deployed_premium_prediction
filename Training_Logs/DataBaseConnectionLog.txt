@@ -1,0 +1,297 @@
+
+2021-10-29/20:27:08		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:08		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-29/20:27:13		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:13		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-29/20:27:09		entered into class : DBconnector
+
+2021-10-29/20:27:22		 DataBase Connected successfully....!
+
+2021-10-29/20:27:13		entered into class : DBconnector
+
+2021-10-29/20:27:28		 DataBase Connected successfully....!
+
+2021-10-29/22:02:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/22:02:46		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-29/22:02:51		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/22:02:51		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-29/22:02:46		entered into class : DBconnector
+
+2021-10-29/22:03:05		 DataBase Connected successfully....!
+
+2021-10-29/22:02:51		entered into class : DBconnector
+
+2021-10-29/22:03:17		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/00:18:58		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:18:58		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:19:02		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:19:02		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:19:02		entered into class : DBconnector
+
+2021-10-30/00:19:22		 DataBase Connected successfully....!
+
+2021-10-30/00:18:58		entered into class : DBconnector
+
+2021-10-30/00:19:32		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('54.196.58.228', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/00:58:01		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:58:01		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:58:06		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:58:06		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:58:01		entered into class : DBconnector
+
+2021-10-30/00:58:17		Exception : Unable to connect to the metadata service at https://3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2021-10-30/00:58:06		entered into class : DBconnector
+
+2021-10-30/00:58:26		Exception : ('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/00:58:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:58:55		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:59:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:59:10		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/00:58:55		entered into class : DBconnector
+
+2021-10-30/00:59:10		Exception : Unable to connect to the metadata service at https://3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2021-10-30/00:59:10		entered into class : DBconnector
+
+2021-10-30/00:59:22		 DataBase Connected successfully....!
+
+2021-10-30/01:53:53		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/01:53:53		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/01:53:57		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/01:53:57		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/01:53:57		entered into class : DBconnector
+
+2021-10-30/01:54:11		 DataBase Connected successfully....!
+
+2021-10-30/01:53:53		entered into class : DBconnector
+
+2021-10-30/01:54:15		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OperationTimedOut('errors=None, last_host=None'), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:35:13		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:35:13		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:35:13		entered into class : DBconnector
+
+2021-10-30/02:35:33		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('54.196.58.228', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:38:04		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:38:04		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:38:13		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:38:13		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:38:05		entered into class : DBconnector
+
+2021-10-30/02:38:29		 DataBase Connected successfully....!
+
+2021-10-30/02:38:13		entered into class : DBconnector
+
+2021-10-30/02:38:32		Exception : ('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/02:39:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:39:32		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:39:40		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:39:40		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:39:32		entered into class : DBconnector
+
+2021-10-30/02:39:51		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('54.196.58.228', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:39:40		entered into class : DBconnector
+
+2021-10-30/02:40:00		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None'), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('3.219.47.245', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:42:04		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:42:04		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/02:42:05		entered into class : DBconnector
+
+2021-10-30/02:42:18		 DataBase Connected successfully....!
+
+2021-10-30/20:43:40		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:43:40		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:43:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:43:46		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:43:40		entered into class : DBconnector
+
+2021-10-30/20:43:52		 DataBase Connected successfully....!
+
+2021-10-30/20:43:46		entered into class : DBconnector
+
+2021-10-30/20:44:17		Exception : ('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/20:44:30		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:44:30		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:44:30		entered into class : DBconnector
+
+2021-10-30/20:44:42		 DataBase Connected successfully....!
+
+2021-10-30/20:44:51		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:44:51		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:44:51		entered into class : DBconnector
+
+2021-10-30/20:45:09		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('3.219.47.245', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/20:45:18		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:45:18		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:45:18		entered into class : DBconnector
+
+2021-10-30/20:45:39		Exception : ('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/20:46:43		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:46:43		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:46:43		entered into class : DBconnector
+
+2021-10-30/20:46:59		Exception : Unable to connect to the metadata service at https://3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2021-10-30/20:47:17		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:47:17		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:47:17		entered into class : DBconnector
+
+2021-10-30/20:47:37		Exception : ('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/20:48:40		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:48:40		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:48:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:48:44		Retrieved DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : ankit  
+ 	 	 	 	 	 	 	 client_id : aAWHvNajZeAOSijSchqywlzD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-ankit.zip 
+
+2021-10-30/20:48:44		entered into class : DBconnector
+
+2021-10-30/20:49:01		 DataBase Connected successfully....!
+
+2021-10-30/20:48:40		entered into class : DBconnector
+
+2021-10-30/20:49:05		 DataBase Connected successfully....!

@@ -1,0 +1,520 @@
+
+2021-10-29/20:32:42		Instances have been created for all the models
+
+2021-10-29/20:32:42		Entered the get_best_model method of the Model_Finder class
+
+2021-10-29/20:32:42		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-29/20:32:45		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-29/20:32:45		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-29/20:32:45		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-29/20:32:51		Instances have been created for all the models
+
+2021-10-29/20:32:51		Entered the get_best_model method of the Model_Finder class
+
+2021-10-29/20:32:51		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-29/20:32:52		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-29/20:32:52		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-29/20:32:52		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-29/20:32:45		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/20:32:59		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.887488760151047}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/20:32:59		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-29/20:32:59		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-29/20:32:52		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/20:32:59		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.89248060799921}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/20:32:59		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-29/20:32:59		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-29/20:32:59		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/20:36:27		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/20:32:59		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/20:36:27		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/20:36:29		 Test Accuracy for Random Forest Model :0.8801238548183635
+
+2021-10-29/20:36:29		 Train and Test Accuracy Difference for Random Forest Model :0.0002514301937083241
+
+2021-10-29/20:36:29		 Test Accuracy for Random Forest Model :0.8803598058588795
+
+2021-10-29/20:36:29		 Train and Test Accuracy Difference for Random Forest Model :3.711322536648076e-05
+
+2021-10-29/20:36:29		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/20:55:21		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/20:55:21		Test Accuracy for Gradient Boosting Model :0.880851113725617
+
+2021-10-29/20:55:21		 Train and Test Accuracy difference for Gradient Boosting Model :0.00414651441327063
+
+2021-10-29/20:55:21		Entered the save_model method of the Model_Operation class
+
+2021-10-29/20:55:21		Model File Gradient Boosting saved. Exited the save_model method of the Model_Finder class
+
+2021-10-29/20:32:41		Training Operation Started....
+
+2021-10-29/20:55:21		Training Operation Completed SuccessFully....
+
+2021-10-29/20:36:29		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/20:55:43		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/20:55:43		Test Accuracy for Gradient Boosting Model :0.8813405925878396
+
+2021-10-29/20:55:43		 Train and Test Accuracy difference for Gradient Boosting Model :0.004966197175262033
+
+2021-10-29/20:55:43		Entered the save_model method of the Model_Operation class
+
+2021-10-29/20:55:43		Model File Gradient Boosting saved. Exited the save_model method of the Model_Finder class
+
+2021-10-29/20:32:50		Training Operation Started....
+
+2021-10-29/20:55:43		Training Operation Completed SuccessFully....
+
+2021-10-29/20:56:58		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-29/20:56:58		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-29/20:56:58		Entered the load_model method of the Model_Operation class
+
+2021-10-29/20:57:00		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-29/20:58:49		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-29/20:58:49		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-29/20:58:49		Entered the load_model method of the Model_Operation class
+
+2021-10-29/20:58:50		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-29/22:08:34		Instances have been created for all the models
+
+2021-10-29/22:08:34		Entered the get_best_model method of the Model_Finder class
+
+2021-10-29/22:08:34		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-29/22:08:35		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-29/22:08:35		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-29/22:08:35		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-29/22:08:35		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/22:08:56		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.508568357381404}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-29/22:08:56		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-29/22:08:56		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-29/22:08:56		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/22:10:17		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-29/22:10:18		 Test Accuracy for Random Forest Model :0.8805904076507124
+
+2021-10-29/22:10:18		 Train and Test Accuracy Difference for Random Forest Model :0.0005229133576714062
+
+2021-10-29/22:10:18		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/22:16:26		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-29/22:16:26		Test Accuracy for Gradient Boosting Model :0.8792527721122876
+
+2021-10-29/22:16:26		 Train and Test Accuracy difference for Gradient Boosting Model :0.005214563272322725
+
+2021-10-29/22:16:26		Entered the save_model method of the Model_Operation class
+
+2021-10-29/22:16:28		Model File Random Forest saved. Exited the save_model method of the Model_Finder class
+
+2021-10-29/22:08:34		Training Operation Started....
+
+2021-10-29/22:16:28		Training Operation Completed SuccessFully....
+
+2021-10-30/00:24:54		Instances have been created for all the models
+
+2021-10-30/00:24:55		Entered the get_best_model method of the Model_Finder class
+
+2021-10-30/00:24:55		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-30/00:24:56		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-30/00:24:56		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-30/00:24:56		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-30/00:24:56		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/00:25:19		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.9795378777497332}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/00:24:53		Training Operation Started....
+
+2021-10-30/00:25:19		class : training , filelocation : trainingfile.py : Unsuccessful End of TrainingI/O operation on closed file.
+
+2021-10-30/01:04:49		Instances have been created for all the models
+
+2021-10-30/01:04:49		Entered the get_best_model method of the Model_Finder class
+
+2021-10-30/01:04:49		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-30/01:04:51		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-30/01:04:51		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-30/01:04:51		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-30/01:04:51		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/01:05:09		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.2895073398997776}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/01:05:09		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-30/01:05:09		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-30/01:05:09		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/01:07:07		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/01:07:08		 Test Accuracy for Random Forest Model :0.8807629436507631
+
+2021-10-30/01:07:08		 Train and Test Accuracy Difference for Random Forest Model :0.0006240482301370642
+
+2021-10-30/01:07:08		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/01:14:41		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/01:14:41		Test Accuracy for Gradient Boosting Model :0.8818715723088191
+
+2021-10-30/01:14:41		 Train and Test Accuracy difference for Gradient Boosting Model :0.0002801299876039609
+
+2021-10-30/01:14:41		Entered the save_model method of the Model_Operation class
+
+2021-10-30/01:14:41		Model File Gradient Boosting saved. Exited the save_model method of the Model_Finder class
+
+2021-10-30/01:04:49		Training Operation Started....
+
+2021-10-30/01:14:41		Training Operation Completed SuccessFully....
+
+2021-10-30/01:17:45		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/01:17:45		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/01:17:45		Entered the load_model method of the Model_Operation class
+
+2021-10-30/01:17:45		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/01:18:23		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/01:18:23		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/01:18:23		Entered the load_model method of the Model_Operation class
+
+2021-10-30/01:18:23		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/01:19:57		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/01:19:57		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/01:19:57		Entered the load_model method of the Model_Operation class
+
+2021-10-30/01:19:57		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/01:59:36		Instances have been created for all the models
+
+2021-10-30/01:59:36		Entered the get_best_model method of the Model_Finder class
+
+2021-10-30/01:59:36		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-30/01:59:37		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-30/01:59:37		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-30/01:59:37		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-30/01:59:37		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/02:00:01		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.6914508197568204}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/02:00:01		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-30/02:00:01		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-30/02:00:01		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/02:01:58		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/02:01:59		 Test Accuracy for Random Forest Model :0.8800127040757454
+
+2021-10-30/02:01:59		 Train and Test Accuracy Difference for Random Forest Model :0.00022853640010034315
+
+2021-10-30/02:01:59		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/02:14:15		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/02:14:15		Test Accuracy for Gradient Boosting Model :0.8816122806373415
+
+2021-10-30/02:14:15		 Train and Test Accuracy difference for Gradient Boosting Model :0.0021800826098553605
+
+2021-10-30/02:14:15		Entered the save_model method of the Model_Operation class
+
+2021-10-30/02:14:16		Model File Gradient Boosting saved. Exited the save_model method of the Model_Finder class
+
+2021-10-30/01:59:35		Training Operation Started....
+
+2021-10-30/02:14:16		Training Operation Completed SuccessFully....
+
+2021-10-30/02:17:59		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/02:17:59		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/02:17:59		Entered the load_model method of the Model_Operation class
+
+2021-10-30/02:17:59		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/02:47:37		Instances have been created for all the models
+
+2021-10-30/02:47:37		Entered the get_best_model method of the Model_Finder class
+
+2021-10-30/02:47:37		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-30/02:47:39		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-30/02:47:39		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-30/02:47:39		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-30/02:47:39		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/02:47:51		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.3038608028860682}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/02:47:51		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-30/02:47:51		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-30/02:47:51		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/02:50:07		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/02:50:08		 Test Accuracy for Random Forest Model :0.8808700048289801
+
+2021-10-30/02:50:08		 Train and Test Accuracy Difference for Random Forest Model :0.0011908708461371154
+
+2021-10-30/02:50:08		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/02:57:32		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/02:57:32		Test Accuracy for Gradient Boosting Model :0.8792308072253615
+
+2021-10-30/02:57:32		 Train and Test Accuracy difference for Gradient Boosting Model :0.0016770776865676629
+
+2021-10-30/02:57:32		Entered the save_model method of the Model_Operation class
+
+2021-10-30/02:57:32		Model File Random Forest saved. Exited the save_model method of the Model_Finder class
+
+2021-10-30/02:47:36		Training Operation Started....
+
+2021-10-30/02:57:32		Training Operation Completed SuccessFully....
+
+2021-10-30/02:58:24		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/02:58:24		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/02:58:24		Entered the load_model method of the Model_Operation class
+
+2021-10-30/02:58:24		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/03:04:46		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/03:04:46		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/03:04:46		Entered the load_model method of the Model_Operation class
+
+2021-10-30/03:04:46		Model File Gradient Boosting loaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/14:50:22		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/14:50:22		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/14:50:22		Entered the load_model method of the Model_Operation class
+
+2021-10-30/14:50:22		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:08:32		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:08:32		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:08:32		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:08:32		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:10:39		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:10:39		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:10:39		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:10:39		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:23:32		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:23:32		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:23:32		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:23:32		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:26:12		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:26:12		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:26:12		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:26:12		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:26:20		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:26:20		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:26:20		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:26:20		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:26:58		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:26:58		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:26:58		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:26:58		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:29:31		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:29:31		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:29:31		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:29:31		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:29:35		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:29:35		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:29:35		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:29:35		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:37:12		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:37:12		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:37:12		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:37:12		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:38:59		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:38:59		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:38:59		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:38:59		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:40:01		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:40:01		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:40:01		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:40:01		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:40:19		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:40:19		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:40:19		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:40:19		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:41:15		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:41:15		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:41:15		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:41:15		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:42:19		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/20:42:19		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/20:42:19		Entered the load_model method of the Model_Operation class
+
+2021-10-30/20:42:19		Model File Gradient Boostingloaded. Exited the load_model method of the Model_Finder class
+
+2021-10-30/20:54:30		Instances have been created for all the models
+
+2021-10-30/20:54:30		Entered the get_best_model method of the Model_Finder class
+
+2021-10-30/20:54:30		Entered the get_best_params_for_lasso_regression method of the Model_Finder class
+
+2021-10-30/20:54:32		Lasso Regression best params: 0.28391093040153664. Exited the get_best_params_for_linear_regression method of the Model_Finder class
+
+2021-10-30/20:54:32		Test Accuracy for Lasso Regression Model :0.7721590529658531
+
+2021-10-30/20:54:32		Train and Test Accuracy difference for Lasso Regression Model :0.029390612975075947
+
+2021-10-30/20:54:32		Entered the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/20:54:37		Decision Trees best params: {'splitter': 'best', 'min_weight_fraction_leaf': 0.1, 'min_samples_split': 20, 'min_samples_leaf': 20, 'max_leaf_nodes': 100, 'max_features': 'auto', 'max_depth': 8, 'criterion': 'squared_error', 'ccp_alpha': 0.43505754427668686}. Exited the get_best_params_for_decision_tree method of the Model_Finder class
+
+2021-10-30/20:54:37		Accuracy for Decision Tree Model :0.8156769682142297
+
+2021-10-30/20:54:37		 Train and Test Accuracy  Difference for Decision Tree Model :0.016705940503455308
+
+2021-10-30/20:54:37		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/20:56:48		Random Forest Regressor best params: {'n_estimators': 1366, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'auto', 'max_depth': 340, 'criterion': 'absolute_error'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2021-10-30/20:56:49		 Test Accuracy for Random Forest Model :0.880576383271445
+
+2021-10-30/20:56:49		 Train and Test Accuracy Difference for Random Forest Model :0.0004279123566713894
+
+2021-10-30/20:56:49		Entered the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/21:06:42		Gradient Boosting Regressor best params: {'subsample': 0.5, 'n_estimators': 622, 'max_features': 'log2', 'max_depth': 4, 'loss': 'huber', 'learning_rate': 0.02, 'criterion': 'friedman_mse'}. Exited the get_best_params_for_gradient_boosting method of the Model_Finder class
+
+2021-10-30/21:06:42		Test Accuracy for Gradient Boosting Model :0.8794000403977866
+
+2021-10-30/21:06:42		 Train and Test Accuracy difference for Gradient Boosting Model :0.005632107473567016
+
+2021-10-30/21:06:42		Entered the save_model method of the Model_Operation class
+
+2021-10-30/21:06:44		Model File Random Forestsaved. Exited the save_model method of the Model_Finder class
+
+2021-10-30/20:54:30		Training Operation Started....
+
+2021-10-30/21:06:44		Training Operation Completed SuccessFully....
+
+2021-10-30/21:08:13		Entered the find_correct_model_file method of the Model_Operation class
+
+2021-10-30/21:08:13		Exited the find_correct_model_file method of the Model_Operation class.
+
+2021-10-30/21:08:13		Entered the load_model method of the Model_Operation class
+
+2021-10-30/21:08:13		Model File Random Forestloaded. Exited the load_model method of the Model_Finder class

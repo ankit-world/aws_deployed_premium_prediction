@@ -1,0 +1,322 @@
+
+2021-10-29/20:56:56		Enter In Convert_input_into_data
+
+2021-10-29/20:56:58		Start of get_prediction
+
+2021-10-29/20:57:00		End of get_prediction
+
+2021-10-29/20:56:56		Start For Gathering Data for prediction
+
+2021-10-29/20:57:00		Start For Prediction
+
+2021-10-29/20:58:48		Enter In Convert_input_into_data
+
+2021-10-29/20:58:49		Start of get_prediction
+
+2021-10-29/20:58:52		End of get_prediction
+
+2021-10-29/20:58:48		Start For Gathering Data for prediction
+
+2021-10-29/20:58:52		Start For Prediction
+
+2021-10-30/01:17:44		Enter In Convert_input_into_data
+
+2021-10-30/01:17:45		Start of get_prediction
+
+2021-10-30/01:17:45		End of get_prediction
+
+2021-10-30/01:17:44		Start For Gathering Data for prediction
+
+2021-10-30/01:17:45		Start For Prediction
+
+2021-10-30/01:18:23		Enter In Convert_input_into_data
+
+2021-10-30/01:18:23		Start of get_prediction
+
+2021-10-30/01:18:23		End of get_prediction
+
+2021-10-30/01:18:23		Start For Gathering Data for prediction
+
+2021-10-30/01:18:23		Start For Prediction
+
+2021-10-30/01:19:56		Enter In Convert_input_into_data
+
+2021-10-30/01:19:57		Start of get_prediction
+
+2021-10-30/01:19:57		End of get_prediction
+
+2021-10-30/01:19:56		Start For Gathering Data for prediction
+
+2021-10-30/01:19:57		Start For Prediction
+
+2021-10-30/02:17:57		Enter In Convert_input_into_data
+
+2021-10-30/02:17:59		Start of get_prediction
+
+2021-10-30/02:17:59		End of get_prediction
+
+2021-10-30/02:17:57		Start For Gathering Data for prediction
+
+2021-10-30/02:17:59		Start For Prediction
+
+2021-10-30/02:58:23		Enter In Convert_input_into_data
+
+2021-10-30/02:58:24		Start of get_prediction
+
+2021-10-30/02:58:25		End of get_prediction
+
+2021-10-30/02:58:22		Start For Gathering Data for prediction
+
+2021-10-30/02:58:25		Start For Prediction
+
+2021-10-30/03:04:45		Enter In Convert_input_into_data
+
+2021-10-30/03:04:46		Start of get_prediction
+
+2021-10-30/03:04:46		End of get_prediction
+
+2021-10-30/03:04:45		Start For Gathering Data for prediction
+
+2021-10-30/03:04:46		Start For Prediction
+
+2021-10-30/14:50:08		Start For Gathering Data for prediction
+
+2021-10-30/14:50:08		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/14:50:22		Enter In Convert_input_into_data
+
+2021-10-30/14:50:22		Start of get_prediction
+
+2021-10-30/14:50:22		End of get_prediction
+
+2021-10-30/14:50:22		Start For Gathering Data for prediction
+
+2021-10-30/14:50:22		Start For Prediction
+
+2021-10-30/14:50:29		Start For Gathering Data for prediction
+
+2021-10-30/14:50:29		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/15:04:10		Start For Gathering Data for prediction
+
+2021-10-30/15:04:10		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/15:07:24		Start For Gathering Data for prediction
+
+2021-10-30/15:07:24		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/15:08:32		Start For Gathering Data for prediction
+
+2021-10-30/15:08:32		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/15:09:46		Start For Gathering Data for prediction
+
+2021-10-30/15:09:46		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/19:59:52		Start For Gathering Data for prediction
+
+2021-10-30/19:59:52		This is a problem with Prediction Processinvalid literal for int() with base 10: ''
+
+2021-10-30/20:02:23		Start For Gathering Data for prediction
+
+2021-10-30/20:08:31		Enter In Convert_input_into_data
+
+2021-10-30/20:08:32		Start of get_prediction
+
+2021-10-30/20:08:32		End of get_prediction
+
+2021-10-30/20:08:31		Start For Gathering Data for prediction
+
+2021-10-30/20:08:32		Start For Prediction
+
+2021-10-30/20:08:37		Start For Gathering Data for prediction
+
+2021-10-30/20:08:48		Start For Gathering Data for prediction
+
+2021-10-30/20:09:44		Start For Gathering Data for prediction
+
+2021-10-30/20:10:31		Start For Gathering Data for prediction
+
+2021-10-30/20:10:39		Enter In Convert_input_into_data
+
+2021-10-30/20:10:39		Start of get_prediction
+
+2021-10-30/20:10:39		End of get_prediction
+
+2021-10-30/20:10:39		Start For Gathering Data for prediction
+
+2021-10-30/20:10:39		Start For Prediction
+
+2021-10-30/20:10:45		Start For Gathering Data for prediction
+
+2021-10-30/20:11:08		Start For Gathering Data for prediction
+
+2021-10-30/20:12:21		Start For Gathering Data for prediction
+
+2021-10-30/20:13:53		Start For Gathering Data for prediction
+
+2021-10-30/20:16:05		Start For Gathering Data for prediction
+
+2021-10-30/20:16:13		Start For Gathering Data for prediction
+
+2021-10-30/20:22:01		Start For Gathering Data for prediction
+
+2021-10-30/20:23:03		Start For Gathering Data for prediction
+
+2021-10-30/20:23:32		Enter In Convert_input_into_data
+
+2021-10-30/20:23:32		Start of get_prediction
+
+2021-10-30/20:23:33		End of get_prediction
+
+2021-10-30/20:23:32		Start For Gathering Data for prediction
+
+2021-10-30/20:23:33		Start For Prediction
+
+2021-10-30/20:23:38		Start For Gathering Data for prediction
+
+2021-10-30/20:24:00		Start For Gathering Data for prediction
+
+2021-10-30/20:24:19		Start For Gathering Data for prediction
+
+2021-10-30/20:24:31		Start For Gathering Data for prediction
+
+2021-10-30/20:25:24		Start For Gathering Data for prediction
+
+2021-10-30/20:25:28		Start For Gathering Data for prediction
+
+2021-10-30/20:26:02		Start For Gathering Data for prediction
+
+2021-10-30/20:26:11		Enter In Convert_input_into_data
+
+2021-10-30/20:26:12		Start of get_prediction
+
+2021-10-30/20:26:12		End of get_prediction
+
+2021-10-30/20:26:11		Start For Gathering Data for prediction
+
+2021-10-30/20:26:12		Start For Prediction
+
+2021-10-30/20:26:20		Enter In Convert_input_into_data
+
+2021-10-30/20:26:20		Start of get_prediction
+
+2021-10-30/20:26:20		End of get_prediction
+
+2021-10-30/20:26:20		Start For Gathering Data for prediction
+
+2021-10-30/20:26:20		Start For Prediction
+
+2021-10-30/20:26:57		Enter In Convert_input_into_data
+
+2021-10-30/20:26:58		Start of get_prediction
+
+2021-10-30/20:26:58		End of get_prediction
+
+2021-10-30/20:26:57		Start For Gathering Data for prediction
+
+2021-10-30/20:26:58		Start For Prediction
+
+2021-10-30/20:29:23		Start For Gathering Data for prediction
+
+2021-10-30/20:29:31		Enter In Convert_input_into_data
+
+2021-10-30/20:29:31		Start of get_prediction
+
+2021-10-30/20:29:31		End of get_prediction
+
+2021-10-30/20:29:31		Start For Gathering Data for prediction
+
+2021-10-30/20:29:31		Start For Prediction
+
+2021-10-30/20:29:35		Enter In Convert_input_into_data
+
+2021-10-30/20:29:35		Start of get_prediction
+
+2021-10-30/20:29:35		End of get_prediction
+
+2021-10-30/20:29:35		Start For Gathering Data for prediction
+
+2021-10-30/20:29:35		Start For Prediction
+
+2021-10-30/20:37:12		Enter In Convert_input_into_data
+
+2021-10-30/20:37:12		Start of get_prediction
+
+2021-10-30/20:37:14		End of get_prediction
+
+2021-10-30/20:37:12		Start For Gathering Data for prediction
+
+2021-10-30/20:37:14		Start For Prediction
+
+2021-10-30/20:38:49		Start For Gathering Data for prediction
+
+2021-10-30/20:38:59		Enter In Convert_input_into_data
+
+2021-10-30/20:38:59		Start of get_prediction
+
+2021-10-30/20:38:59		End of get_prediction
+
+2021-10-30/20:38:59		Start For Gathering Data for prediction
+
+2021-10-30/20:38:59		Start For Prediction
+
+2021-10-30/20:39:53		Start For Gathering Data for prediction
+
+2021-10-30/20:40:01		Enter In Convert_input_into_data
+
+2021-10-30/20:40:01		Start of get_prediction
+
+2021-10-30/20:40:02		End of get_prediction
+
+2021-10-30/20:40:01		Start For Gathering Data for prediction
+
+2021-10-30/20:40:02		Start For Prediction
+
+2021-10-30/20:40:06		Start For Gathering Data for prediction
+
+2021-10-30/20:40:19		Enter In Convert_input_into_data
+
+2021-10-30/20:40:19		Start of get_prediction
+
+2021-10-30/20:40:19		End of get_prediction
+
+2021-10-30/20:40:19		Start For Gathering Data for prediction
+
+2021-10-30/20:40:19		Start For Prediction
+
+2021-10-30/20:41:08		Start For Gathering Data for prediction
+
+2021-10-30/20:41:15		Enter In Convert_input_into_data
+
+2021-10-30/20:41:15		Start of get_prediction
+
+2021-10-30/20:41:15		End of get_prediction
+
+2021-10-30/20:41:15		Start For Gathering Data for prediction
+
+2021-10-30/20:41:15		Start For Prediction
+
+2021-10-30/20:42:11		Start For Gathering Data for prediction
+
+2021-10-30/20:42:19		Enter In Convert_input_into_data
+
+2021-10-30/20:42:19		Start of get_prediction
+
+2021-10-30/20:42:19		End of get_prediction
+
+2021-10-30/20:42:19		Start For Gathering Data for prediction
+
+2021-10-30/20:42:19		Start For Prediction
+
+2021-10-30/21:08:12		Enter In Convert_input_into_data
+
+2021-10-30/21:08:13		Start of get_prediction
+
+2021-10-30/21:08:14		End of get_prediction
+
+2021-10-30/21:08:12		Start For Gathering Data for prediction
+
+2021-10-30/21:08:14		Start For Prediction
+
+2021-10-30/21:08:20		Start For Gathering Data for prediction

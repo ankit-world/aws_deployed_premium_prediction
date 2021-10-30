@@ -1,0 +1,80 @@
+
+2021-10-29/20:27:24		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-29/20:27:24		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-29/20:32:38		Data Uploaded successfully ....
+
+2021-10-29/20:32:38		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-29/20:32:41		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-29/20:27:29		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-29/20:27:29		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-29/20:32:49		Data Uploaded successfully ....
+
+2021-10-29/20:32:49		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-29/20:32:50		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-29/22:03:07		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-29/22:03:07		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-29/22:08:32		Data Uploaded successfully ....
+
+2021-10-29/22:08:32		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-29/22:08:34		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-30/00:19:24		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-30/00:19:24		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-30/00:24:51		Data Uploaded successfully ....
+
+2021-10-30/00:24:52		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-30/00:24:53		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-30/00:59:24		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-30/00:59:24		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-30/01:04:48		Data Uploaded successfully ....
+
+2021-10-30/01:04:48		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-30/01:04:49		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-30/01:54:13		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-30/01:54:13		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-30/01:59:33		Data Uploaded successfully ....
+
+2021-10-30/01:59:34		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-30/01:59:35		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-30/02:42:19		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-30/02:42:19		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-30/02:47:35		Data Uploaded successfully ....
+
+2021-10-30/02:47:35		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-30/02:47:36		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-10-30/20:49:06		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-10-30/20:49:06		Files found in Good Raw dirs  :['Insurance_10062021_120000.csv']
+
+2021-10-30/20:54:29		Data Uploaded successfully ....
+
+2021-10-30/20:54:29		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-10-30/20:54:30		 Data Imported in to file Training_FileFromDB/InputFile.csv

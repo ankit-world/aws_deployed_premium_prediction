@@ -1,0 +1,120 @@
+
+2021-10-29/20:27:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-29/20:27:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-29/20:27:28		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:28		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-29/20:27:28		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/20:27:28		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-29/22:03:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/22:03:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-29/22:03:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-29/22:03:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/00:19:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:19:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/00:19:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:19:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/00:59:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:59:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/00:59:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/00:59:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/01:54:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/01:54:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/01:54:11		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/01:54:11		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/02:38:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:38:29		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/02:38:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:38:29		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/02:42:18		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:42:18		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/02:42:18		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/02:42:18		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:43:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:43:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:43:52		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:43:52		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:44:42		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:44:42		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:44:42		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:44:42		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:49:01		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:49:01		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:49:01		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:49:01		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:49:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:49:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]
+
+2021-10-30/20:49:05		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-10-30/20:49:05		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'ankit', 'keys_': {'path_to_zip': 'secure-connect-ankit.zip', 'client_id': 'aAWHvNajZeAOSijSchqywlzD', 'client_seck': 'MZdJFo,G-qnbzf4fp20H9DvBoXm9_HJbB2dSuZ-p2Udl_-.oWuWCOcbqX+_ZCB7,2X7jqgxZvfXvRrQ0pOC-54MTSu6xg2ikXpXiH-TxIEJFFAus1i_46ecv_2mtmuXs', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"test"', 'purpose': 'to store Good validated data'}}]

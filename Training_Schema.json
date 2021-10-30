@@ -1,0 +1,15 @@
+{
+    "SampleFileName": "Insurance_10062021_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 7 ,
+	"ColName": {
+                "age" : "Integer" ,
+                "sex" : "object" ,
+                "bmi" : "float" ,
+                "children" : "Integer" ,
+                "smoker" : "object",
+                "region" : "object",
+                "charges" : "float"
+	}
+}

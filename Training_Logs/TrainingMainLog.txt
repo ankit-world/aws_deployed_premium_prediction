@@ -1,0 +1,288 @@
+
+2021-10-29/20:27:23		Replacing Missing Value by NULL 
+
+2021-10-29/20:27:23		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-29/20:27:28		Replacing Missing Value by NULL 
+
+2021-10-29/20:27:28		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-29/20:27:22		
+
+
+
+2021-10-29/20:27:22		Training data Validation Process is started..
+
+2021-10-29/20:27:22		Connecting with database..
+
+2021-10-29/20:27:23		Training Validation Process is completed ....
+
+2021-10-29/20:27:23		Database Operation  is Starting ....
+
+2021-10-29/20:27:24		Good Training Table Created Successfully....
+
+2021-10-29/20:27:24		 Inserting Good Data to the Table ....
+
+2021-10-29/20:32:38		Database Insertion is Completed ....
+
+2021-10-29/20:32:38		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-29/20:32:38		Extracting the Good data  from Database....
+
+2021-10-29/20:32:41		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-29/20:27:28		
+
+
+
+2021-10-29/20:27:28		Training data Validation Process is started..
+
+2021-10-29/20:27:28		Connecting with database..
+
+2021-10-29/20:27:28		Training Validation Process is completed ....
+
+2021-10-29/20:27:28		Database Operation  is Starting ....
+
+2021-10-29/20:27:29		Good Training Table Created Successfully....
+
+2021-10-29/20:27:29		 Inserting Good Data to the Table ....
+
+2021-10-29/20:32:49		Database Insertion is Completed ....
+
+2021-10-29/20:32:49		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-29/20:32:49		Extracting the Good data  from Database....
+
+2021-10-29/20:32:50		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-29/22:03:06		Replacing Missing Value by NULL 
+
+2021-10-29/22:03:06		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-29/22:03:05		
+
+
+
+2021-10-29/22:03:05		Training data Validation Process is started..
+
+2021-10-29/22:03:05		Connecting with database..
+
+2021-10-29/22:03:06		Training Validation Process is completed ....
+
+2021-10-29/22:03:06		Database Operation  is Starting ....
+
+2021-10-29/22:03:07		Good Training Table Created Successfully....
+
+2021-10-29/22:03:07		 Inserting Good Data to the Table ....
+
+2021-10-29/22:08:32		Database Insertion is Completed ....
+
+2021-10-29/22:08:32		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-29/22:08:32		Extracting the Good data  from Database....
+
+2021-10-29/22:08:34		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/00:19:23		Replacing Missing Value by NULL 
+
+2021-10-30/00:19:23		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/00:19:22		
+
+
+
+2021-10-30/00:19:22		Training data Validation Process is started..
+
+2021-10-30/00:19:22		Connecting with database..
+
+2021-10-30/00:19:23		Training Validation Process is completed ....
+
+2021-10-30/00:19:23		Database Operation  is Starting ....
+
+2021-10-30/00:19:24		Good Training Table Created Successfully....
+
+2021-10-30/00:19:24		 Inserting Good Data to the Table ....
+
+2021-10-30/00:24:51		Database Insertion is Completed ....
+
+2021-10-30/00:24:52		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-30/00:24:52		Extracting the Good data  from Database....
+
+2021-10-30/00:24:53		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/00:59:23		Replacing Missing Value by NULL 
+
+2021-10-30/00:59:23		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/00:59:22		
+
+
+
+2021-10-30/00:59:22		Training data Validation Process is started..
+
+2021-10-30/00:59:22		Connecting with database..
+
+2021-10-30/00:59:23		Training Validation Process is completed ....
+
+2021-10-30/00:59:23		Database Operation  is Starting ....
+
+2021-10-30/00:59:24		Good Training Table Created Successfully....
+
+2021-10-30/00:59:24		 Inserting Good Data to the Table ....
+
+2021-10-30/01:04:48		Database Insertion is Completed ....
+
+2021-10-30/01:04:48		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-30/01:04:48		Extracting the Good data  from Database....
+
+2021-10-30/01:04:49		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/01:54:12		Replacing Missing Value by NULL 
+
+2021-10-30/01:54:12		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/01:54:11		
+
+
+
+2021-10-30/01:54:11		Training data Validation Process is started..
+
+2021-10-30/01:54:11		Connecting with database..
+
+2021-10-30/01:54:12		Training Validation Process is completed ....
+
+2021-10-30/01:54:12		Database Operation  is Starting ....
+
+2021-10-30/01:54:13		Good Training Table Created Successfully....
+
+2021-10-30/01:54:13		 Inserting Good Data to the Table ....
+
+2021-10-30/01:59:33		Database Insertion is Completed ....
+
+2021-10-30/01:59:34		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-30/01:59:34		Extracting the Good data  from Database....
+
+2021-10-30/01:59:35		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/02:35:33		This is a problem with Model Training('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('54.196.58.228', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:38:31		Replacing Missing Value by NULL 
+
+2021-10-30/02:38:31		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/02:38:32		This is a problem with Model Training('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/02:39:51		This is a problem with Model Training('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('54.196.58.228', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:40:00		This is a problem with Model Training('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None'), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('3.219.47.245', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/02:42:19		Replacing Missing Value by NULL 
+
+2021-10-30/02:42:19		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/02:42:18		
+
+
+
+2021-10-30/02:42:18		Training data Validation Process is started..
+
+2021-10-30/02:42:18		Connecting with database..
+
+2021-10-30/02:42:19		Training Validation Process is completed ....
+
+2021-10-30/02:42:19		Database Operation  is Starting ....
+
+2021-10-30/02:42:19		Good Training Table Created Successfully....
+
+2021-10-30/02:42:19		 Inserting Good Data to the Table ....
+
+2021-10-30/02:47:35		Database Insertion is Completed ....
+
+2021-10-30/02:47:35		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-30/02:47:35		Extracting the Good data  from Database....
+
+2021-10-30/02:47:36		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/02:47:36		Data Validation Completed Successfully
+
+2021-10-30/02:57:32		Model Training Completed Successfully
+
+2021-10-30/20:43:52		Replacing Missing Value by NULL 
+
+2021-10-30/20:43:52		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/20:44:17		This is a problem with Model Training('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/20:44:42		Replacing Missing Value by NULL 
+
+2021-10-30/20:44:42		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/20:45:09		This is a problem with Model Training('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('3.219.47.245', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/20:45:39		This is a problem with Model Training('Unable to connect to any servers', {'3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:acfdc860-4251-42a1-bceb-9a7667a1e06d': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:82243265-9b8b-423d-84c7-901973dfb47c': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out"), '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29042:6a4dd0c4-c94c-4861-b30a-ed2fb864d7f1': OSError(None, "Tried connecting to [('18.207.107.113', 29042)]. Last error: timed out")})
+
+2021-10-30/20:46:59		This is a problem with Model TrainingUnable to connect to the metadata service at https://3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2021-10-30/20:47:37		This is a problem with Model Training('Unable to connect to any servers', ['3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com', '3db55841-4a14-4c14-9b42-7d57a84a4ae5-us-east-1.db.astra.datastax.com'])
+
+2021-10-30/20:49:02		Replacing Missing Value by NULL 
+
+2021-10-30/20:49:02		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/20:49:05		Replacing Missing Value by NULL 
+
+2021-10-30/20:49:05		 Insurance_10062021_120000.csv: File Transformed successfully!!
+
+2021-10-30/20:49:05		
+
+
+
+2021-10-30/20:49:05		Training data Validation Process is started..
+
+2021-10-30/20:49:05		Connecting with database..
+
+2021-10-30/20:49:05		Training Validation Process is completed ....
+
+2021-10-30/20:49:05		Database Operation  is Starting ....
+
+2021-10-30/20:49:06		Good Training Table Created Successfully....
+
+2021-10-30/20:49:06		 Inserting Good Data to the Table ....
+
+2021-10-30/20:54:29		Database Insertion is Completed ....
+
+2021-10-30/20:54:29		Exception  : 
+
+2021-10-30/20:54:29		This is a problem with Model Training
+
+2021-10-30/20:49:01		
+
+
+
+2021-10-30/20:49:01		Training data Validation Process is started..
+
+2021-10-30/20:49:01		Connecting with database..
+
+2021-10-30/20:49:02		Training Validation Process is completed ....
+
+2021-10-30/20:49:02		Database Operation  is Starting ....
+
+2021-10-30/20:49:03		Good Training Table Created Successfully....
+
+2021-10-30/20:49:03		 Inserting Good Data to the Table ....
+
+2021-10-30/20:54:29		Database Insertion is Completed ....
+
+2021-10-30/20:54:29		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-10-30/20:54:29		Extracting the Good data  from Database....
+
+2021-10-30/20:54:30		Data Extraction is completed stored in InputFile.csv ....
+
+2021-10-30/20:54:30		Data Validation Completed Successfully
+
+2021-10-30/21:06:44		Model Training Completed Successfully
