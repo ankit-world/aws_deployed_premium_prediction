@@ -81,3 +81,10 @@ The main goal is to predict the health insurance premium of the user based on di
 
 ![image](https://user-images.githubusercontent.com/88729680/139525568-c28d556a-0749-4007-8876-58de0e38a48e.png)
 
+
+# **Insurance Premium Prediction Project Video**
+
+https://user-images.githubusercontent.com/88729680/139559119-c22cfb09-776d-411e-a671-7e4a4173596f.mp4
+
+
+
