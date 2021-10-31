@@ -264,15 +264,16 @@ Various factors were used and their effect on predicted amount was examined. It 
 
 ## Documentation
 
-[High Level Design]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449698/High.Level.Design.pdf))
+[High Level Design](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449698/High.Level.Design.pdf)
 
-[Low Level Design]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449699/Low.Level.Design.pdf))
+[Low Level Design](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449699/Low.Level.Design.pdf)
 
-[WireFrame]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449700/WireFrame.pdf))
+[WireFrame](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449700/WireFrame.pdf)
 
-[DetailProject]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449697/Detailed.Project.Report.pdf))
+[DetailProject](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449697/Detailed.Project.Report.pdf)
 
-[Architecture]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449696/Architecture.pdf))
+[Architecture](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449696/Architecture.pdf)
+
 
 ## Tech Stack
 
