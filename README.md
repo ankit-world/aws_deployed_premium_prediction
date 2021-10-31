@@ -87,27 +87,11 @@ The main goal is to predict the health insurance premium of the user based on di
 https://user-images.githubusercontent.com/88729680/139592015-f5989bca-7d5a-411b-9d69-953d1286e37c.mp4
 
 
+## **Deployments**
 
+AWS Cloud : http://awsdeployedpremiumprediction-env.eba-8h3eeubu.ap-south-1.elasticbeanstalk.com/
 
-
-
-## Deployments
-
-AWS Cloud
-
-```bash
-http://awsdeployedpremiumprediction-env.eba-8h3eeubu.ap-south-1.elasticbeanstalk.com/
-```
-
-Heroku Cloud
-
-```bash
-https://ipinusrance.herokuapp.com/
-```
-
-
-
-
+Heroku Cloud : https://ipinusrance.herokuapp.com/
 
 ## Run Locally
 
@@ -264,16 +248,15 @@ Various factors were used and their effect on predicted amount was examined. It 
 
 ## Documentation
 
-[High Level Design](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449698/High.Level.Design.pdf)
+[High Level Design]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449698/High.Level.Design.pdf))
 
-[Low Level Design](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449699/Low.Level.Design.pdf)
+[Low Level Design]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449699/Low.Level.Design.pdf))
 
-[WireFrame](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449700/WireFrame.pdf)
+[WireFrame]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449700/WireFrame.pdf))
 
-[DetailProject](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449697/Detailed.Project.Report.pdf)
+[DetailProject]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449697/Detailed.Project.Report.pdf))
 
-[Architecture](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449696/Architecture.pdf)
-
+[Architecture]((https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449696/Architecture.pdf))
 
 ## Tech Stack
 
