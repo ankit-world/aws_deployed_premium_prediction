@@ -101,4 +101,10 @@ Heroku Link - https://ipinusrance.herokuapp.com/
 
 * Clone the Project
 
+[Insurance HLD-converted.pdf](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449686/Insurance.HLD-converted.pdf)
+[Insurance LLD-converted.pdf](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449687/Insurance.LLD-converted.pdf)
+[Insurance_Architecture-converted.pdf](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449689/Insurance_Architecture-converted.pdf)
+[Insurance_Wireframe-converted.pdf](https://github.com/ankit-world/aws_deployed_premium_prediction/files/7449690/Insurance_Wireframe-converted.pdf)
+
+
 
